@@ -1,2 +1,2 @@
 # Prog-1
-all files from CSCI 116
+Important / interesting files from CSCI 116
