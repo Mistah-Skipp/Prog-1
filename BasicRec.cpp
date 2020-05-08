@@ -36,3 +36,16 @@ double rfact(int n) {
 	 else //recursive call
 		return n * rfact(n - 1);
 }
+
+/*
+int recfib(int k)
+{
+	if (k == 0) {		// if k == 0
+		return 0;
+	} else if (k == 1) {		//	if k == 1
+		return 1;
+	} else {
+		return (2 * recfib(k-1)) + recfib(k-2);	//2 fn-1 + fn-2 n>1
+	}
+}
+*/
